@@ -1,0 +1,614 @@
+{
+    "panama": {
+        "translation": "بنما",
+        "next_review": "2025-04-01T16:45:25.184697",
+        "interval": 1,
+        "transliteration": "bnma"
+    },
+    "city": {
+        "translation": "مدينة",
+        "next_review": "2025-04-01T16:45:25.842599",
+        "interval": 1,
+        "transliteration": "mdynh"
+    },
+    "let": {
+        "translation": "يترك",
+        "next_review": "2025-04-01T18:09:04.127280",
+        "interval": 1,
+        "transliteration": "ytrk"
+    },
+    "go": {
+        "translation": "يذهب",
+        "next_review": "2025-04-01T18:09:04.711592",
+        "interval": 1,
+        "transliteration": "ydhhb"
+    },
+    "ea": {
+        "translation": "EA",
+        "next_review": "2025-04-01T18:09:05.339638",
+        "interval": 1,
+        "transliteration": "EA"
+    },
+    "what": {
+        "translation": "ماذا",
+        "next_review": "2025-04-01T18:11:10.955789",
+        "interval": 1,
+        "transliteration": "madha"
+    },
+    "time": {
+        "translation": "وقت",
+        "next_review": "2025-04-01T18:11:11.598543",
+        "interval": 1,
+        "transliteration": "wqt"
+    },
+    "is": {
+        "translation": "يكون",
+        "next_review": "2025-04-01T18:11:12.205625",
+        "interval": 1,
+        "transliteration": "ykwn"
+    },
+    "it": {
+        "translation": "هو - هي",
+        "next_review": "2025-04-01T18:11:12.786900",
+        "interval": 1,
+        "transliteration": "hw - hy"
+    },
+    "hey": {
+        "translation": "يا",
+        "next_review": "2025-04-01T18:26:39.025985",
+        "interval": 1,
+        "transliteration": "ya"
+    },
+    "there": {
+        "translation": "هناك",
+        "next_review": "2025-04-01T18:26:39.641995",
+        "interval": 1,
+        "transliteration": "hnak"
+    },
+    "i": {
+        "translation": "أنا",
+        "next_review": "2025-04-01T18:52:47.243798",
+        "interval": 1,
+        "transliteration": "ana"
+    },
+    "don": {
+        "translation": "اِتَّشَح",
+        "next_review": "2025-04-01T18:52:47.846635",
+        "interval": 1,
+        "transliteration": "aittashaḥ"
+    },
+    "t": {
+        "translation": "ر",
+        "next_review": "2025-04-01T18:52:48.444948",
+        "interval": 1,
+        "transliteration": "r"
+    },
+    "have": {
+        "translation": "يملك",
+        "next_review": "2025-04-01T18:52:49.092002",
+        "interval": 1,
+        "transliteration": "ymlk"
+    },
+    "any": {
+        "translation": "أي",
+        "next_review": "2025-04-01T18:52:49.719172",
+        "interval": 1,
+        "transliteration": "ay"
+    },
+    "usd": {
+        "translation": "دولار أمريكي",
+        "next_review": "2025-04-01T18:52:50.315248",
+        "interval": 1,
+        "transliteration": "dwlar amryky"
+    },
+    "right": {
+        "translation": "يمين",
+        "next_review": "2025-04-01T18:52:50.921387",
+        "interval": 1,
+        "transliteration": "ymyn"
+    },
+    "now": {
+        "translation": "الآن",
+        "next_review": "2025-04-01T18:52:51.537012",
+        "interval": 1,
+        "transliteration": "alān"
+    },
+    "its": {
+        "translation": "إنه",
+        "next_review": "2025-04-01T21:08:08.243123",
+        "interval": 1,
+        "transliteration": "inh"
+    },
+    "late": {
+        "translation": "متأخر",
+        "next_review": "2025-04-01T21:08:09.061967",
+        "interval": 1,
+        "transliteration": "mtakhr"
+    },
+    "hate": {
+        "translation": "يكره",
+        "next_review": "2025-04-01T21:25:30.419269",
+        "interval": 1,
+        "transliteration": "ykrh"
+    },
+    "cartoons": {
+        "translation": "الرسوم الكاريكاتورية",
+        "next_review": "2025-04-01T21:25:32.166362",
+        "interval": 1,
+        "transliteration": "alrswm alkarykatwryh"
+    },
+    "make": {
+        "translation": "يصنع",
+        "next_review": "2025-04-01T23:30:52.940369",
+        "interval": 1,
+        "transliteration": "yṣn‘"
+    },
+    "work": {
+        "translation": "عمل",
+        "next_review": "2025-04-01T23:30:53.784713",
+        "interval": 1,
+        "transliteration": "‘ml"
+    },
+    "please": {
+        "translation": "لو سمحت",
+        "next_review": "2025-04-01T23:30:54.645161",
+        "interval": 1,
+        "transliteration": "lw smḥt"
+    },
+    "understand": {
+        "translation": "يفهم",
+        "next_review": "2025-04-01T23:31:33.163052",
+        "interval": 1,
+        "transliteration": "yfhm"
+    },
+    "you": {
+        "translation": "أنت",
+        "next_review": "2025-04-01T23:31:33.951406",
+        "interval": 1,
+        "transliteration": "ant"
+    },
+    "are": {
+        "translation": "نكون",
+        "next_review": "2025-04-01T23:31:34.728425",
+        "interval": 1,
+        "transliteration": "nkwn"
+    },
+    "saying": {
+        "translation": "القول",
+        "next_review": "2025-04-01T23:31:35.523600",
+        "interval": 1,
+        "transliteration": "alqwl"
+    },
+    "dont": {
+        "translation": "لا",
+        "next_review": "2025-04-01T23:35:16.098131",
+        "interval": 1,
+        "transliteration": "la"
+    },
+    "call": {
+        "translation": "يتصل",
+        "next_review": "2025-04-01T23:35:16.901568",
+        "interval": 1,
+        "transliteration": "ytṣl"
+    },
+    "me": {
+        "translation": "أنا",
+        "next_review": "2025-04-01T23:35:17.679863",
+        "interval": 1,
+        "transliteration": "ana"
+    },
+    "hello": {
+        "translation": "مرحبًا",
+        "next_review": "2025-04-01T23:42:34.460913",
+        "interval": 1,
+        "transliteration": "mrḥbana"
+    },
+    "world": {
+        "translation": "عالم",
+        "next_review": "2025-04-01T23:42:35.262872",
+        "interval": 1,
+        "transliteration": "‘alm"
+    },
+    "wallet": {
+        "translation": "محفظة",
+        "next_review": "2025-04-01T23:44:56.985829",
+        "interval": 1,
+        "transliteration": "mḥfẓh"
+    },
+    "honey": {
+        "translation": "عسل",
+        "next_review": "2025-04-02T00:15:34.728956",
+        "interval": 1,
+        "transliteration": "‘sl"
+    },
+    "im": {
+        "translation": "أنا",
+        "next_review": "2025-04-02T00:15:35.489774",
+        "interval": 1,
+        "transliteration": "ana"
+    },
+    "home": {
+        "translation": "بيت",
+        "next_review": "2025-04-02T00:15:36.274396",
+        "interval": 1,
+        "transliteration": "byt"
+    },
+    "m": {
+        "translation": "م",
+        "next_review": "2025-04-02T00:16:43.173996",
+        "interval": 1,
+        "transliteration": "m"
+    },
+    "going": {
+        "translation": "ذاهب",
+        "next_review": "2025-04-02T00:16:43.960551",
+        "interval": 1,
+        "transliteration": "dhahb"
+    },
+    "to": {
+        "translation": "ل",
+        "next_review": "2025-04-02T00:16:44.750666",
+        "interval": 1,
+        "transliteration": "l"
+    },
+    "sleep": {
+        "translation": "ينام",
+        "next_review": "2025-04-02T00:16:45.506241",
+        "interval": 1,
+        "transliteration": "ynam"
+    },
+    "hi": {
+        "translation": "أهلاً",
+        "next_review": "2025-04-02T08:49:41.462431",
+        "interval": 1,
+        "transliteration": "ahlaan"
+    },
+    "the": {
+        "translation": "ال",
+        "next_review": "2025-04-02T08:50:13.227110",
+        "interval": 1,
+        "transliteration": "al"
+    },
+    "devil": {
+        "translation": "شيطان",
+        "next_review": "2025-04-02T08:50:13.817448",
+        "interval": 1,
+        "transliteration": "shyṭan"
+    },
+    "hear": {
+        "translation": "يسمع",
+        "next_review": "2025-04-02T08:50:14.427649",
+        "interval": 1,
+        "transliteration": "ysm‘"
+    },
+    "here": {
+        "translation": "هنا",
+        "next_review": "2025-04-02T08:51:03.206980",
+        "interval": 1,
+        "transliteration": "hna"
+    },
+    "check": {
+        "translation": "يفحص",
+        "next_review": "2025-04-02T09:00:56.390608",
+        "interval": 1,
+        "transliteration": "yfḥṣ"
+    },
+    "again": {
+        "translation": "مرة أخرى",
+        "next_review": "2025-04-02T09:00:57.021919",
+        "interval": 1,
+        "transliteration": "mrh akhrā"
+    },
+    "new": {
+        "translation": "جديد",
+        "next_review": "2025-04-02T09:40:01.485149",
+        "interval": 1,
+        "transliteration": "jdyd"
+    },
+    "list": {
+        "translation": "قائمة",
+        "next_review": "2025-04-02T09:40:02.129265",
+        "interval": 1,
+        "transliteration": "qaئmh"
+    },
+    "of": {
+        "translation": "ل",
+        "next_review": "2025-04-02T09:40:02.763601",
+        "interval": 1,
+        "transliteration": "l"
+    },
+    "words": {
+        "translation": "كلمات",
+        "next_review": "2025-04-02T09:40:03.370106",
+        "interval": 1,
+        "transliteration": "klmat"
+    },
+    "review": {
+        "translation": "مراجعة",
+        "next_review": "2025-04-02T10:34:10.013100",
+        "interval": 1,
+        "transliteration": "mraj‘h"
+    },
+    "how": {
+        "translation": "كيف",
+        "next_review": "2025-04-02T11:14:08.562438",
+        "interval": 1,
+        "transliteration": "kyf"
+    },
+    "money": {
+        "translation": "مال",
+        "next_review": "2025-04-02T11:14:09.188608",
+        "interval": 1,
+        "transliteration": "mal"
+    },
+    "my": {
+        "translation": "لي",
+        "next_review": "2025-04-02T11:45:01.330702",
+        "interval": 1,
+        "transliteration": "ly"
+    },
+    "body": {
+        "translation": "جسم",
+        "next_review": "2025-04-02T11:45:01.916923",
+        "interval": 1,
+        "transliteration": "jsm"
+    },
+    "hurts": {
+        "translation": "يؤلمني",
+        "next_review": "2025-04-02T11:45:02.989462",
+        "interval": 1,
+        "transliteration": "yؤlmny"
+    },
+    "family": {
+        "translation": "عائلة",
+        "next_review": "2025-04-02T11:53:29.312580",
+        "interval": 1,
+        "transliteration": "‘aئlh"
+    },
+    "tree": {
+        "translation": "شجرة",
+        "next_review": "2025-04-02T11:53:29.943043",
+        "interval": 1,
+        "transliteration": "shjrh"
+    },
+    "listen": {
+        "translation": "يستمع",
+        "next_review": "2025-04-02T12:12:08.024577",
+        "interval": 1,
+        "transliteration": "ystm‘"
+    },
+    "send": {
+        "translation": "يرسل",
+        "next_review": "2025-04-02T12:17:53.524408",
+        "interval": 1,
+        "transliteration": "yrsl"
+    },
+    "message": {
+        "translation": "رسالة",
+        "next_review": "2025-04-02T12:17:54.177755",
+        "interval": 1,
+        "transliteration": "rsalh"
+    },
+    "daddy": {
+        "translation": "بابي",
+        "next_review": "2025-04-02T12:31:52.462280",
+        "interval": 1,
+        "transliteration": "baby"
+    },
+    "getting": {
+        "translation": "الحصول",
+        "next_review": "2025-04-02T12:39:32.179755",
+        "interval": 1,
+        "transliteration": "alḥṣwl"
+    },
+    "hot": {
+        "translation": "حار",
+        "next_review": "2025-04-02T12:39:32.790599",
+        "interval": 1,
+        "transliteration": "ḥar"
+    },
+    "want": {
+        "translation": "يريد",
+        "next_review": "2025-04-02T13:33:03.641982",
+        "interval": 1,
+        "transliteration": "yryd"
+    },
+    "wait": {
+        "translation": "انتظر",
+        "next_review": "2025-04-02T13:33:04.350630",
+        "interval": 1,
+        "transliteration": "antẓr"
+    },
+    "come": {
+        "translation": "يأتي",
+        "next_review": "2025-04-02T13:35:06.291908",
+        "interval": 1,
+        "transliteration": "yaty"
+    },
+    "visit": {
+        "translation": "يزور",
+        "next_review": "2025-04-02T13:35:06.922839",
+        "interval": 1,
+        "transliteration": "yzwr"
+    },
+    "a": {
+        "translation": "أ",
+        "next_review": "2025-04-02T13:48:56.626900",
+        "interval": 1,
+        "transliteration": "a"
+    },
+    "change": {
+        "translation": "يتغير",
+        "next_review": "2025-04-02T13:48:57.264235",
+        "interval": 1,
+        "transliteration": "ytghyr"
+    },
+    "start": {
+        "translation": "يبدأ",
+        "next_review": "2025-04-02T17:01:36.880009",
+        "interval": 1,
+        "transliteration": "ybda"
+    },
+    "see": {
+        "translation": "يرى",
+        "next_review": "2025-04-02T17:41:45.349897",
+        "interval": 1,
+        "transliteration": "yrā"
+    },
+    "anyone": {
+        "translation": "أي شخص",
+        "next_review": "2025-04-02T17:41:45.939323",
+        "interval": 1,
+        "transliteration": "ay shkhṣ"
+    },
+    "where": {
+        "translation": "أين",
+        "next_review": "2025-04-02T19:56:53.187404",
+        "interval": 1,
+        "transliteration": "ayn"
+    },
+    "not": {
+        "translation": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "next_review": "2025-04-02T20:30:48.519641",
+        "interval": 1,
+        "transliteration": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    "roeking": {
+        "translation": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "next_review": "2025-04-02T20:30:49.105638",
+        "interval": 1,
+        "transliteration": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    "working": {
+        "translation": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "next_review": "2025-04-02T20:32:39.866394",
+        "interval": 1,
+        "transliteration": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    "computer": {
+        "translation": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "next_review": "2025-04-02T20:47:10.596481",
+        "interval": 1,
+        "transliteration": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    "too": {
+        "translation": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "next_review": "2025-04-02T20:47:11.184155",
+        "interval": 1,
+        "transliteration": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    "slow": {
+        "translation": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+        "next_review": "2025-04-02T20:47:11.816180",
+        "interval": 1,
+        "transliteration": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    "need": {
+        "translation": "يحتاج",
+        "next_review": "2025-04-02T21:38:31.285130",
+        "interval": 1,
+        "transliteration": "yḥtaj"
+    },
+    "do": {
+        "translation": "يفعل",
+        "next_review": "2025-04-02T21:38:31.910457",
+        "interval": 1,
+        "transliteration": "yf‘l"
+    },
+    "something": {
+        "translation": "شئ ما",
+        "next_review": "2025-04-02T21:38:32.546756",
+        "interval": 1,
+        "transliteration": "shئ ma"
+    },
+    "gay": {
+        "translation": "مثلي الجنس",
+        "next_review": "2025-04-02T21:44:57.707607",
+        "interval": 1,
+        "transliteration": "mthly aljns"
+    },
+    "tehmosque": {
+        "translation": "tehmosque",
+        "next_review": "2025-04-02T21:53:23.418627",
+        "interval": 1,
+        "transliteration": "tehmosque"
+    },
+    "mosque": {
+        "translation": "مسجد",
+        "next_review": "2025-04-02T21:53:43.081613",
+        "interval": 1,
+        "transliteration": "msjd"
+    },
+    "am": {
+        "translation": "أكون",
+        "next_review": "2025-04-02T21:54:12.104809",
+        "interval": 1,
+        "transliteration": "akwn"
+    },
+    "at": {
+        "translation": "في",
+        "next_review": "2025-04-02T21:54:12.731164",
+        "interval": 1,
+        "transliteration": "fy"
+    },
+    "park": {
+        "translation": "حديقة",
+        "next_review": "2025-04-02T23:11:58.647039",
+        "interval": 1,
+        "transliteration": "ḥdyqh"
+    },
+    "why": {
+        "translation": "لماذا",
+        "next_review": "2025-04-02T23:28:08.275944",
+        "interval": 1,
+        "transliteration": "lmadha"
+    },
+    "so": {
+        "translation": "لذا",
+        "next_review": "2025-04-02T23:28:08.906041",
+        "interval": 1,
+        "transliteration": "ldha"
+    },
+    "long": {
+        "translation": "طويل",
+        "next_review": "2025-04-02T23:28:09.499462",
+        "interval": 1,
+        "transliteration": "ṭwyl"
+    },
+    "good": {
+        "translation": "[good: Not in dictionary]",
+        "next_review": "2025-04-03T00:16:31.365024",
+        "interval": 1,
+        "transliteration": "good"
+    },
+    "morning": {
+        "translation": "[morning: Not in dictionary]",
+        "next_review": "2025-04-03T00:16:31.365024",
+        "interval": 1,
+        "transliteration": "morning"
+    },
+    "run": {
+        "translation": "[run: Not in dictionary]",
+        "next_review": "2025-04-03T01:09:05.400149",
+        "interval": 1,
+        "transliteration": "run"
+    },
+    "daily": {
+        "translation": "[daily: Not in dictionary]",
+        "next_review": "2025-04-03T01:09:05.400149",
+        "interval": 1,
+        "transliteration": "daily"
+    },
+    "with": {
+        "translation": "[with: Not in dictionary]",
+        "next_review": "2025-04-03T01:12:37.676667",
+        "interval": 1,
+        "transliteration": "with"
+    },
+    "book": {
+        "translation": "[book: Not in dictionary]",
+        "next_review": "2025-04-03T01:29:36.056674",
+        "interval": 1,
+        "transliteration": "book"
+    }
+}

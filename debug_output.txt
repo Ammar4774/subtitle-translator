@@ -1,0 +1,6 @@
+[00000164cc52a130] main audio output error: too low audio sample frequency (0)
+[00000164cc64f7a0] main decoder error: failed to create audio output
+[00000164cc52a130] main audio output error: module not functional
+[00000164cc64f7a0] main decoder error: failed to create audio output
+[00000164cc54b900] avcodec decoder: Using D3D11VA (Intel(R) HD Graphics 520, vendor 8086(Intel), device 1916, revision 7) for hardware decoding
+[0000016480c71750] direct3d11 vout display error: SetThumbNailClip failed: 0x800706f4

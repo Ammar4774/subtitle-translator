@@ -1,0 +1,7 @@
+*.db
+debug_log.txt
+debug_output.txt
+*.json
+*.xlsx
+subtitle_translator_v*.py
+!subtitle_translator_v36.py
